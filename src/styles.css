@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.main {
+  
+}
+
+.main table {
+  margin-top: 32px;
+}
+
+.main table thead {
+  font-weight: bold;
+}
+
+.primary-row{
+  background-color: #c0c0c0;
+}
+
+.secondary-row{
+  background-color: #fff;
+}
+
+.fa-edit{
+  color:#fff;
+}
+modal-footer > button > i{
+  padding-right: 5px;
+}
+
+.has-error {
+  border-color: red;
+  color: red;
+}
